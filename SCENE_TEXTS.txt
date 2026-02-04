@@ -1,0 +1,106 @@
+EMAILAPP DEMO VOICEOVER TEXTS
+Copy/paste each scene into Azure Speech Studio
+Voice: en-US-JennyNeural for all scenes
+================================================================================
+
+SCENE 1: Title Card (8 sec) | Rate: -5%
+--------------------------------------------------------------------------------
+EmailApp: AI-powered email and task management for Microsoft Outlook.
+================================================================================
+
+SCENE 2: The Problem (22 sec) | Rate: 0%
+--------------------------------------------------------------------------------
+As an executive, your inbox is overwhelming. Fifty new emails overnight. Back-to-back meetings with no time to prepare. Action items buried in email threads. And hours spent writing responses instead of making strategic decisions.
+================================================================================
+
+SCENE 3: The Solution Introduction (20 sec) | Rate: -5%
+--------------------------------------------------------------------------------
+What if Claude could handle all of that for you? Through the Model Context Protocol, EmailApp gives Claude direct access to your Microsoft Outlook. It processes emails, extracts tasks, prepares you for meetings, and drafts responses—automatically.
+================================================================================
+
+SCENE 4A: Fetch Emails (20 sec) | Rate: -5%
+--------------------------------------------------------------------------------
+Let's start with Monday morning. Instead of manually triaging fifty emails, just ask Claude. It fetches your emails through Microsoft Graph API and instantly provides a structured summary.
+================================================================================
+
+SCENE 4B: Extract Tasks (40 sec) | Rate: -5%
+--------------------------------------------------------------------------------
+This email from the CFO contains multiple action items. Instead of manually creating tasks, Claude automatically extracts them, assigns priorities, and sets due dates based on context.
+================================================================================
+
+SCENE 4C: Task Dashboard (40 sec) | Rate: -10%
+--------------------------------------------------------------------------------
+You now have a real-time dashboard of what matters most. Nothing falls through the cracks. Every action item is tracked and prioritized.
+================================================================================
+
+SCENE 5A: Extract Meeting Info (30 sec) | Rate: -5%
+--------------------------------------------------------------------------------
+You have a meeting in thirty minutes with a key partner. Claude automatically extracts meeting details from calendar invites—attendees, agenda, location, and objectives.
+================================================================================
+
+SCENE 5B: Generate Meeting Prep (60 sec) | Rate: -10%
+--------------------------------------------------------------------------------
+Now here's where it gets powerful. Claude prepares you for this meeting by searching your entire email history with these attendees, identifying relevant context, and generating a comprehensive briefing document. You walk in fully prepared in minutes, not hours.
+================================================================================
+
+SCENE 6A: Generate Draft (40 sec) | Rate: -5%
+--------------------------------------------------------------------------------
+You receive an important email that requires a thoughtful response, but you're between meetings. Instead of context-switching, ask Claude to draft it for you. It analyzes the original email, follows your instructions, and generates a professional response in seconds.
+================================================================================
+
+SCENE 6B: Refine Draft (30 sec) | Rate: -5%
+--------------------------------------------------------------------------------
+Want to adjust the tone? Simply tell Claude. It iterates on the draft conversationally, maintaining context while refining based on your feedback.
+================================================================================
+
+SCENE 6C: Draft Management (20 sec) | Rate: -5%
+--------------------------------------------------------------------------------
+Manage all your drafts in one place. Review, refine, and send when ready. Nothing gets lost or forgotten.
+================================================================================
+
+SCENE 7A: Agent Settings (30 sec) | Rate: -5%
+--------------------------------------------------------------------------------
+EmailApp can also work autonomously. Configure the agent to automatically process new emails, extract tasks, and generate drafts in the background—while you focus on strategic work.
+================================================================================
+
+SCENE 7B: Run Agent Now (30 sec) | Rate: 0%
+--------------------------------------------------------------------------------
+Watch as the agent processes your entire inbox in one command. Tasks extracted, drafts generated, meetings prepared. This is what "zero inbox" actually looks like with AI assistance.
+================================================================================
+
+SCENE 8: Value Proposition & ROI (60 sec) | Rate: -15%
+--------------------------------------------------------------------------------
+Let's talk about value. Most executives save five to ten hours per week on email management and meeting preparation. That's 250 to 500 hours annually—over twelve weeks of work time back in your calendar. If your time is worth two hundred dollars per hour, that's thirty-nine thousand to one hundred fifty-six thousand dollars in value every year. And that's just time savings—it doesn't account for better decision-making from being more prepared, or reduced stress from a managed inbox. EmailApp integrates seamlessly with your existing Microsoft 365 infrastructure. It uses OAuth authentication—we never store your password. All communication happens through Microsoft's official Graph API with enterprise-grade security. You maintain full control through approval workflows, and there's a complete audit trail of every action Claude takes on your behalf.
+================================================================================
+
+SCENE 9: Call to Action (30 sec) | Rate: -5%
+--------------------------------------------------------------------------------
+EmailApp transforms Claude into your intelligent executive assistant. It handles the cognitive overhead of email management so you can focus on what matters most—strategic decisions that move your business forward. Ready to get started? Visit the link below to set up EmailApp with your Microsoft Outlook account. Experience the power of AI-assisted email management in your own inbox.
+================================================================================
+
+SCENE 10: End Card (10 sec) | Rate: -15%
+--------------------------------------------------------------------------------
+EmailApp. AI-powered email management for Microsoft Outlook.
+================================================================================
+
+FILENAME REFERENCE:
+scene_1_Title_Card.mp3
+scene_2_The_Problem.mp3
+scene_3_The_Solution_Introduction.mp3
+scene_4A_Fetch_Emails.mp3
+scene_4B_Extract_Tasks.mp3
+scene_4C_Task_Dashboard.mp3
+scene_5A_Extract_Meeting_Info.mp3
+scene_5B_Generate_Meeting_Prep.mp3
+scene_6A_Generate_Draft.mp3
+scene_6B_Refine_Draft.mp3
+scene_6C_Draft_Management.mp3
+scene_7A_Agent_Settings.mp3
+scene_7B_Run_Agent_Now.mp3
+scene_8_Value_Proposition_ROI.mp3
+scene_9_Call_to_Action.mp3
+scene_10_End_Card.mp3
+
+TOTAL: 16 scenes
+TOTAL TIME: ~8-10 minutes of audio
+TOTAL CHARACTERS: ~5,000 (well within free tier!)

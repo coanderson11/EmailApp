@@ -9,6 +9,7 @@ import { configManager } from './config/mcp-config.js';
 import { initializePrisma, disconnectPrisma, getPrisma } from './config/database.js';
 import { UserContext } from './mcp/user-context.js';
 import { logger } from './utils/logger.js';
+import { initializeServices, Services } from './services/index.js';
 
 // Import only working email tools
 import { FetchEmailsTool } from './mcp/tools/email-tools.js';
@@ -17,6 +18,7 @@ import { FetchEmailsTool } from './mcp/tools/email-tools.js';
 class MCPServer {
   private server: Server;
   private userContext: UserContext | null = null;
+  private services: Services | null = null;
   private tools: Map<string, any> = new Map();
 
   constructor() {
@@ -41,7 +43,11 @@ class MCPServer {
       throw new Error('User context not initialized');
     }
 
-    const prisma = getPrisma();
+    if (!this.services) {
+      throw new Error('Services not initialized');
+    }
+
+    const prisma = this.services.prisma;
 
     const toolInstances = [
       new FetchEmailsTool(this.userContext, prisma),

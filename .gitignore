@@ -7,6 +7,7 @@ dist/
 # Environment variables
 .env
 .env.local
+scripts/.env
 
 # Logs
 *.log
@@ -28,3 +29,7 @@ Thumbs.db
 
 # Prisma
 prisma/migrations/
+
+# Generated voiceovers
+voiceovers/
+scripts/voiceovers/
