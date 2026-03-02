@@ -4,7 +4,15 @@
       "WebSearch",
       "Bash(powershell.exe:*)",
       "Bash(node:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(ls:*)",
+      "Bash(start storyboard-player.html)",
+      "Bash(explorer.exe video-storyboard-kit)",
+      "Bash(start .)",
+      "Bash(npm whoami:*)",
+      "Bash(chmod:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
     ]
   }
 }

@@ -33,3 +33,8 @@ prisma/migrations/
 # Generated voiceovers
 voiceovers/
 scripts/voiceovers/
+
+# Generated storyboards
+scripts/storyboard.pdf
+scripts/storyboard.html
+scripts/storyboard-player.html
